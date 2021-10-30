@@ -1,0 +1,19 @@
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+	text-align: center;
+}
+#picture{
+	height:20%;
+}
+.header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+#bub
+{
+	width: 80px;margin-left: -15px;
+}
+body{
+	background-color: aquamarine;
+}
